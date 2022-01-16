@@ -1,0 +1,28 @@
+#content-header {
+  //background:  #e6ef8b;
+  background-image: url("../img/home/home.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 400px ;
+  height: 400px ;
+  line-height: 400px;
+  padding-top: 100px;
+}
+#menu-gauche {
+  //background:  #702963;
+  background: navy;
+  background:   #030546;
+  //background-image: url("../img/font_investissement3.jpeg");
+  //background-repeat: no-repeat;
+  //background-size: 400px 10000px;
+}
+
+.navbar {
+  background:   #010223 ;
+  //background-image: url("../img/font_investissement3.jpeg");
+  //background-repeat: no-repeat;
+  //background-size: 400px 10000px;
+}
+
+#titre {
+  color:white;
+}
